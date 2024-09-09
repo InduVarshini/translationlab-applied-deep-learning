@@ -9,6 +9,9 @@ As a part of the assignment, we visited the CU Boulder Art Museum and found an a
 Here is the art piece I selected,
 ![Art](./input_docs/IMG_4499.JPG)
 
+Art Description in zoom,
+![Art Description](./input_docs/IMG_4497.JPG)
+
 Below is the translation in french and tamil languages,
 
 ### In French:
